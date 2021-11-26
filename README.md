@@ -15,4 +15,4 @@ Luke
 
 
 Assets
-Low Poly Pack - https://assetstore.unity.com/packages/3d/props/weapons/low-poly-fps-pack-free-sample-144839 (Used only the pistol, knife and gernade. The asset came with the code already it just had to be looked at and edited a little so it can have function against the enemy that has been added)
+* Low Poly Pack - https://assetstore.unity.com/packages/3d/props/weapons/low-poly-fps-pack-free-sample-144839 (Used only the pistol, knife and gernade. The asset came with the code already it just had to be looked at and edited a little so it can have function against the enemy that has been added)
