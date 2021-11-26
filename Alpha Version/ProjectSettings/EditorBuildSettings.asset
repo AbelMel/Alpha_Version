@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/ZKiller Game Scene/Menu.unity
+    guid: f9cc8a03e280af942abf451e428f77e7
+  - enabled: 1
+    path: Assets/ZKiller Game Scene/GameOver.unity
+    guid: e46a2d36e2157b547b9983e0b04a224c
+  - enabled: 1
+    path: Assets/ZKiller Game Scene/ZKiller.unity
+    guid: d786ed15d0e419f43b4218a11d3cb272
+  m_configObjects: {}
